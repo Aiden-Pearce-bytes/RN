@@ -1,1 +1,1 @@
-# RN
+# Basic Navigator using React Native
